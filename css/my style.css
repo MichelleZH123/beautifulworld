@@ -1,0 +1,28 @@
+.photos {
+	max-width: 720px;
+}
+.firstpic {
+	max-height: 360px;
+	object-fit: cover;
+	max-width: 360px;
+	width: 100%;
+	box-shadow: 20px 20px #ddd;
+}
+p {
+	font-size: 22px;
+	color:#6A5ACD;
+}
+h1{
+	font-weight: bold;
+}
+h2{
+	font-weight: bold;
+}
+
+.iconpic{
+	max-height: 50px;
+	max-width:50px;
+}
+hr{
+	border-top: 3px solid #ccc;
+}
